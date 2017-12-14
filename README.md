@@ -1,1 +1,1 @@
-# kibear.github.io
+# [kibear.github.io](url?_blank)
