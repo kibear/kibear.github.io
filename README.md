@@ -1,4 +1,5 @@
-# [kibear](https://kibear.github.io)
+# home
+[kibear](https://kibear.github.io)
 
 # intro
 java engineer
