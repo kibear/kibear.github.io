@@ -1,7 +1,0 @@
-
-# lstm: 
-https://zhuanlan.zhihu.com/p/30465140
-http://cj.sina.com.cn/article/detail/3996876140/331326
-http://www.cnblogs.com/yaoyaoliu/p/5860525.html
-http://cj.sina.com.cn/article/detail/3996876140/532327
-
