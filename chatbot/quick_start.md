@@ -1,5 +1,5 @@
 
-# chatterbot install
+# Installing from PyPi
 pip install chatterbot
 
 # Quick Start Guide
