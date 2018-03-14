@@ -25,7 +25,7 @@
 ---
 ---
 
-# sample page
+# sample capture
 
 ## index page
 ![avatar](index.png)
