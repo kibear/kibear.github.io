@@ -1,7 +1,7 @@
 # home
 [kibear](https://kibear.github.io)
 
-# intro
+# introduce
 java engineer
 
 # blog
