@@ -1,13 +1,13 @@
 # some capture
 
 ## schema
-![avatar](schema.png)
+![avatar](schema.jpg)
 
 ## bond fund graph
-![avatar](bond_fund.png)
+![avatar](bond_fund.jpg)
 
 ## monetary fund graph
-![avatar](monetary_fund.png)
+![avatar](monetary_fund.jpg)
 
 ---
 ---
