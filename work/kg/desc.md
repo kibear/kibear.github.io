@@ -1,13 +1,13 @@
 # some capture
 
-## schema frame
-![avatar](index.png)
+## schema
+![avatar](schema.png)
 
-## graph frame1
-![avatar](create_task.png)
+## bond fund graph
+![avatar](bond_fund.png)
 
-## graph frame2
-![avatar](config_static.png)
+## monetary fund graph
+![avatar](monetary_fund.png)
 
 ---
 ---
